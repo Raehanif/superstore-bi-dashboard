@@ -1,5 +1,3 @@
-# superstore-bi-dashboard
-
 # Superstore Sales & Profitability Dashboard
 
 ## Overview
@@ -29,3 +27,7 @@ where the business is losing money.
 
 
 ## Screenshots
+
+![Executive Overview](page1.png)
+![Product Analysis](page2.png)
+![Customer Analysis](page3.png)
