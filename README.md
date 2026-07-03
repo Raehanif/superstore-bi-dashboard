@@ -19,9 +19,9 @@ where the business is losing money.
 ## Key Insights
 1. **Furniture is sold at a loss in the Central region** : discount rates above
    20% on Tables and Bookcases result in negative profit margin despite strong sales volume
-2. **Technology drives 60% of total profit** despite being the second-largest
+2. **Technology drives 60% of total profit**: despite being the second-largest
    category by sales, Copiers and Accessories are the highest-margin sub-categories
-3. **High discounting (20%+) correlates with negative margins** — orders with
+3. **High discounting (20%+) correlates with negative margins**:  orders with
    discounts above 20% account for 50% of total orders but generate negative profit
 
 ## Tools Used
@@ -38,3 +38,6 @@ where the business is losing money.
 ![Executive Overview](page1.png)
 ![Product Analysis](page2.png)
 ![Customer Analysis](page3.png)
+
+
+**Author:** Raeha Hanif
