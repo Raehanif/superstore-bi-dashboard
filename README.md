@@ -6,6 +6,11 @@ An end-to-end Business Intelligence dashboard built in Power BI analyzing
 and 793 customers. The goal was to identify what drives profitability and
 where the business is losing money.
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=flat)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+
+
 ## Dashboard Pages
 - **Page 1 — Executive Overview:** KPIs, sales trend, regional breakdown
 - **Page 2 — Product Analysis:** Category profitability, discount impact, sub-category performance
@@ -20,13 +25,15 @@ where the business is losing money.
    discounts above 20% account for 50% of total orders but generate negative profit
 
 ## Tools Used
-- Power BI Desktop (DAX, Power Query, Data Modelling)
-- Data source: Sample Superstore Dataset (Kaggle)
+| Tool | Purpose |
+|---|---|
+| Power BI Desktop | Data modeling, DAX, report design |
+| Power Query (M) | Data cleaning and transformation |
+| DAX | Measures, calculated columns |
 
-## Live Dashboard
 
 
-## Screenshots
+## Dashboard Preview
 
 ![Executive Overview](page1.png)
 ![Product Analysis](page2.png)
